@@ -1,0 +1,3 @@
+# Intentionally left blank
+# Just a file for error logging and terminal output
+# Covered in the README file
